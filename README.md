@@ -1,4 +1,4 @@
-# DSI---PPAI
+# DSI-PPAI
 Proyecto Práctico Anual Integrador, Diseño de Sistemas UTN-FRC
 
 Sistema que implementa un Caso de Uso 'Registrar Reserva de visitas guiadas' de un Museo.
