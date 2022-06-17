@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59DB3D62-4230-4B8E-B3E2-88C383EFFAB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DSIReentrega</RootNamespace>
+    <AssemblyName>DSIReentrega</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccesoDatos\ADAsignacionVisita.cs" />
+    <Compile Include="AccesoDatos\ADEmpleado.cs" />
+    <Compile Include="AccesoDatos\ADEstados.cs" />
+    <Compile Include="AccesoDatos\ADExposicion.cs" />
+    <Compile Include="AccesoDatos\ADGestor.cs" />
+    <Compile Include="AccesoDatos\ADReservaVisita.cs" />
+    <Compile Include="AccesoDatos\ADSede.cs" />
+    <Compile Include="AccesoDatos\ADTIpoVisita.cs" />
+    <Compile Include="Clases\AsignacionVisita.cs" />
+    <Compile Include="Clases\CambioEstado.cs" />
+    <Compile Include="Clases\Cargo.cs" />
+    <Compile Include="Clases\DetalleExposicion.cs" />
+    <Compile Include="Clases\Empleado.cs" />
+    <Compile Include="Clases\Escuela.cs" />
+    <Compile Include="Clases\Estado.cs" />
+    <Compile Include="Clases\Exposicion.cs" />
+    <Compile Include="Clases\Strategy\EstrategiaCompleta.cs" />
+    <Compile Include="Clases\Strategy\EstrategiaPorExposicion.cs" />
+    <Compile Include="Clases\Strategy\EstrategiaTipoVisita.cs" />
+    <Compile Include="Interfaz\MenuOpciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\MenuOpciones.Designer.cs">
+      <DependentUpon>MenuOpciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controlador\GestorReservaVisita.cs" />
+    <Compile Include="Clases\HorarioEmpleado.cs" />
+    <Compile Include="Clases\Obra.cs" />
+    <Compile Include="Clases\PublicoDestino.cs" />
+    <Compile Include="Clases\ReservaVisita.cs" />
+    <Compile Include="Clases\Sede.cs" />
+    <Compile Include="Clases\Sesion.cs" />
+    <Compile Include="Clases\TipoExposicion.cs" />
+    <Compile Include="Clases\TipoVisita.cs" />
+    <Compile Include="Clases\Usuario.cs" />
+    <Compile Include="Interfaz\PantallaReservaDeVisita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\PantallaReservaDeVisita.Designer.cs">
+      <DependentUpon>PantallaReservaDeVisita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Interfaz\MenuOpciones.resx">
+      <DependentUpon>MenuOpciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interfaz\PantallaReservaDeVisita.resx">
+      <DependentUpon>PantallaReservaDeVisita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1398912_circle_correct_mark_success_tick_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\museos_destacada-1366x769.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\227602_arrow_left_icon %282%29.png" />
+    <None Include="Resources\227602_arrow_left_icon %281%29.png" />
+    <Content Include="Resources\227602_arrow_left_icon.png" />
+    <None Include="Resources\227602_arrow_left_icon1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

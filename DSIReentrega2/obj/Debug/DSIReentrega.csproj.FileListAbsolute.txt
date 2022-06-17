@@ -1,0 +1,131 @@
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\bin\Debug\DSIReentrega.exe.config
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\bin\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\bin\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\bin\Debug\DSIReentrega.exe.config
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\bin\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\bin\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Valentino\Desktop\PPAI\DSI-MIO\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\bin\Debug\DSIReentrega.exe.config
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\bin\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\bin\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI\DSI-Reentrega\obj\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\bin\Debug\DSIReentrega.exe.config
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\bin\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\bin\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\Backup\DSI-Reentrega\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\Matia\Desktop\DSI-PPAI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\DSI-PPAI\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\José\Desktop\Faq\LVL 3\DSI\DSI-Reentrega\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\DSI-REENTREGA\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\valen\Downloads\DSIReentrega2\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.exe
+C:\Users\Valentino\Desktop\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.pdb
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.exe.config
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.exe
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\bin\Debug\DSIReentrega.pdb
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csprojAssemblyReference.cache
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.Clases.MenuOpciones.resources
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.PantallaReservaDeVisita.resources
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.Properties.Resources.resources
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csproj.GenerateResource.cache
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.csproj.CoreCompileInputs.cache
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.exe
+E:\UTN-FRC\Tercer Año\DSI\PPAI-Strategy\DSIReentrega2\obj\Debug\DSIReentrega.pdb
